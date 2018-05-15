@@ -6,10 +6,13 @@ Draf Tim
 - Tim Programmer   : Mage
 - Tim Analisa      : Areta
 - Tim Dokumentasi :
-  Jeski (Non Fungsionalitas)
-  Sapta (Busines Modeling)
-  Paulus (Fungsionalitas)
-  M.Rivai
+  [X]Jeski (Non Fungsionalitas)
+  
+  [X]Sapta (Busines Modeling)
+  
+  [X]Paulus (Fungsionalitas)
+  
+  [X]M.Rivai
 
 #Deatline
 Akir Agustus – Awal September
