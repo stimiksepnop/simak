@@ -6,6 +6,7 @@ Draf Tim
 - Tim Programmer   : Mage
 - Tim Analisa      : Areta
 - Tim Dokumentasi :
+  
   [X]Jeski (Non Fungsionalitas)
   
   [X]Sapta (Busines Modeling)
@@ -14,7 +15,7 @@ Draf Tim
   
   [X]M.Rivai
 
-#Deatline
-Akir Agustus – Awal September
+
+# Deatline Akir Agustus – Awal September
 
 #Bagi rekan-rekan mahasiswa dan alumi yang ingin berkontribusi silahkan kontak pak Jim untuk bergabung
